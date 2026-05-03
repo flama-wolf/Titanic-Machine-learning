@@ -7,6 +7,10 @@ Ce projet présente une solution complète pour la compétition Kaggle "Titanic 
 Notre modèle a atteint un score de **0.76555** sur le classement public de Kaggle, démontrant une bonne capacité de prédiction.
 
 ![Kaggle Submission Score](https://private-us-east-1.manuscdn.com/sessionFile/n4Jq9w5lIHuIoGmNkwrtpV/sandbox/UNOz0YXOgAZyDZC5u6EOgu-images_1777808096368_na1fn_L2hvbWUvdWJ1bnR1L3RpdGFuaWNfcHJvamVjdC9rYWdnbGVfc3VibWlzc2lvbl9zY29yZQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbjRKcTl3NWxJSHVJb0dtTmt3cnRwVi9zYW5kYm94L1VOT3owWVhPZ0FaeURaQzV1NkVPZ3UtaW1hZ2VzXzE3Nzc4MDgwOTYzNjhfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzUnBkR0Z1YVdOZmNISnZhbVZqZEM5cllXZG5iR1ZmYzNWaWJXbHpjMmx2Ymw5elkyOXlaUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=MCXT93yZnRFSuIaEhgYiEIRA0DkeAN56I2xuLK0~TOa9fHoMaRegXQo-~-R~7xjSizKMn66as2HlNP4XKuX4b3qosKrU5QQeRAfUnjs2WONSJyOj~pKzaNdz~IDRJWT5MsS3ChWk8HWlQJXru9sGSDlSZje-N14nhh5dvu1SvggYeL87iQC94V11rTvRqL48f1tDSJVfuX3cLuNXaAYy67W~l1xsRd1J7DcfD0J1Adp-vRcT6Er4dz0siuTHE674g~V0eXH0hohbDXR3Wn~u7uP7J9vDy3saNh2~z4gqCIkSfhiOTIGmGaXIZZ~tYNRuedfY5VLFp7QRWlewYQlbTg__)
+<img width="1000" height="800" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/6bf3cb4e-d90c-4f5e-9fd4-fa9df1f8fea5" />
+<img width="1500" height="1000" alt="eda_insights" src="https://github.com/user-attachments/assets/7afe2468-7d77-4cf5-9d3d-5b05e9a08d5b" />
+
+
 
 ## Structure du Projet
 Le dépôt contient les fichiers suivants :
