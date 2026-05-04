@@ -59,8 +59,8 @@ Le modèle ensemble final a été utilisé pour générer des prédictions sur l
 ## Comment Exécuter le Code
 1.  **Cloner le dépôt** :
     ```bash
-    git clone <URL_DE_VOTRE_DEPOT>
-    cd <votre_dossier_projet>
+    git clone https://github.com/flama-wolf/Titanic-Machine-learning.git
+    cd Titanic-Machine-learning
     ```
 2.  **Installer les dépendances** :
     ```bash
